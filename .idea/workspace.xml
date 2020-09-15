@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ae2130c-acae-45aa-89f7-f62dcc0bac7e" name="Default Changelist" comment="" />
+    <list default="true" id="9ae2130c-acae-45aa-89f7-f62dcc0bac7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/format_output/average_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/format_output/average_scores.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Average_Scores" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hX0MspYS0C8A876jypVrgbJ5dV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,7 +40,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for MyTestCase.test_average">
+    <configuration name="Unittests for MyTestCase.test_average" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Module3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MyTestCase.test_average&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in test_average_scores.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Module3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +72,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Unittests in test_average_scores.py" />
+        <item itemvalue="Python tests.Unittests for MyTestCase.test_average" />
       </list>
     </recent_temporary>
   </component>
